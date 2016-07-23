@@ -4,9 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pkg/errors"
-
 	termbox "github.com/nsf/termbox-go"
+	"github.com/pkg/errors"
 )
 
 // Common errors.
